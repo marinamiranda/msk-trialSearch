@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.App {
+    background-color: #f6f6f6;
+    min-height: 900px;
+}
+
+.searchBox {
+    width: 700px;
+    margin: 0 auto;
+    background-color: rgb(36, 106, 178);
+}
+.records {
+    width: 700px;
+    margin: 0 auto;
+    padding: 30px 0px;
+    min-height: 700px;
+    background-color: #e9e9e9;
+}
+.record {
+    padding: 5px;
+    color: #4f4f4f;
+    border-bottom: 1px solid gray;
+}
+.search{
+	padding: 5px 0px 30px 0px;
+    width: 80%;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+}
+.searchTitle{
+	text-align: center;
+	color: white;
+	padding:10px;
+}
+
+input[type="text"] {
+    margin: 0 10px;
+    width: 50%;
+    background-color: white;
+}    
+
+input[type="submit"] {
+    cursor: pointer;
+} 
+.recordCategory{
+	position: absolute;
+    right: 280px;
+}
+.category{
+	position: absolute;
+    left: 600px;
+}
