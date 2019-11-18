@@ -9,5 +9,5 @@ Marina Miranda
 
 To do:
 
-Implement table 
-Pagination
+- Implement table 
+- Pagination
