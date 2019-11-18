@@ -7,3 +7,7 @@ Marina Miranda
 (1) npm install
 (2) npm start
 
+To do:
+
+Implement table 
+Pagination
